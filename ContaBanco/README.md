@@ -14,6 +14,7 @@ IDE (Visual Studio Code, Eclipse, etc);
 Aprender o básico sobre java e aplicar o conhecimento adquirido até o momento.
 
 ## Descrição do Desafio
+
 1. Crie o projeto `ContaBanco` que receberá dados via terminal contendo as características de conta em banco conforme atributos abaixo:
 2. Dentro do projeto, crie a classe `ContaTerminal.java` para realizar toda a codificação do nosso programa.
 3. Permita que os dados sejam inseridos via terminal sendo que o usuário receberá a mensagem de qual informação será solicitada, exemplo:
@@ -34,9 +35,9 @@ Aprender o básico sobre java e aplicar o conhecimento adquirido até o momento.
 
 Os campos em [ ] devem ser alterados pelas informações que forem inseridas pelos usuários.
 
-## Ferramentas Utilizadas
+## Ferramentas Utilizadas 
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) 
 
